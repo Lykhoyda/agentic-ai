@@ -75,7 +75,7 @@ requires-dist = [
     { name = "mcp", extras = ["cli"], specifier = ">=1.5.0" },
     { name = "mcp-server-fetch", specifier = ">=2025.1.17" },
     { name = "openai", specifier = ">=1.68.2" },
-    { name = "openai-agents", specifier = ">=0.0.6" },
+    { name = "openai-agents", specifier = ">=0.0.16" },
     { name = "playwright", specifier = ">=1.51.0" },
     { name = "plotly", specifier = ">=6.0.1" },
     { name = "polygon-api-client", specifier = ">=1.14.5" },
